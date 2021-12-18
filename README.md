@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zhiyao Wen
 - 👀 I’m interested in machine learning and neural network.
-- 🌱 I’m currently learning neural network
 - 💞️ I’m looking to collaborate on the competition of Kaggle
 - 📫 How to reach me by me email
 
